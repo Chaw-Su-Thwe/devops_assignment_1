@@ -1,4 +1,4 @@
 This is a new feature branched from main.
 
 
-Added by Collaborator
+Added some resources for pull request.
